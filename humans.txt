@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sean Ockert -- Author -- @seanockert
+
+# THANKS
+
+    HTML5 Boilerplate
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Zepto, SwipeJS, SelectNav, 320up Grid
